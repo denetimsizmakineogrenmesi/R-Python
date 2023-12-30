@@ -4,6 +4,7 @@ Doç. Dr. Zeki ÖZEN ve Doç. Dr. Elif Kartal editörlüğünde hazırlanan ve i
 
 Kitaba aşağıdaki gibi atıf verebilirsiniz.
 APA7:
+
 Özen, Z., & Kartal, E. (Ed.). (2023). Denetimsiz Makine Öğrenmesi Algoritmaları: R ve Python Uygulamaları (1. bs). Nobel Akademik Yayıncılık.
 
 
