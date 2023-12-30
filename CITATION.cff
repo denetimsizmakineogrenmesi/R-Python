@@ -1,9 +1,9 @@
 @book{ozenDenetimsizMakineOgrenmesi2023,
-  title = {Denetimsiz Makine Öğrenmesi Algoritmaları: R ve Python Uygulamaları},
-  editor = {Özen, Zeki and Kartal, Elif},
-  year = {2023},
-  edition = {1},
-  publisher = {Nobel Akademik Yayıncılık},
-  address = {Ankara},
-  isbn = {978-625-397-655-2}
+	address = {Ankara},
+	edition = {1},
+	title = {Denetimsiz {Makine} Öğrenmesi {Algoritmaları}: {R} ve {Python} {Uygulamaları}},
+	isbn = {978-625-397-655-2},
+	publisher = {Nobel Akademik Yayıncılık},
+	editor = {Özen, Zeki and Kartal, Elif},
+	year = {2023},
 }
