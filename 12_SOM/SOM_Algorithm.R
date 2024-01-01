@@ -1,3 +1,8 @@
+# Algorithm: Self-Organizing Map (SOM)
+# Dataset: https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2023
+# Author: Dr. Zeki OZEN
+# Date: August 2023
+
 # gerekli paketler kuruluyor
 # install.packages("readr", "clusterSim", "kohonen", "ggplot2", "rnaturalearth", "rnaturalearthdata")
 
